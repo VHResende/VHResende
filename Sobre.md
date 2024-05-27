@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @VHResende
+- 👀 I’m interested in Ciência de Dados e trabalho digital.
+- 🌱 I’m currently learning Ciência de Dados na EBAC.-
+- 💞️ I’m looking to collaborate on soluções para mehhoria no trabalho e na vida das pessoas, por meio do trabalho com dados.
+- 📫 How to reach me vhrjedi@yahoo.com.br
+- ⚡ Fun facts: Sou Doutor em Música e Mestre em História. Atuo na Educação Básica e no Ensino Superior. Dou aulas de violão, canto e musicalização. Sou Gestor de Tráfego.
+- ---
