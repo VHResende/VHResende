@@ -1,7 +1,7 @@
 ### Olá 👋
 
 #### Sobre Victor Resende:
-Cientista de Dados em formação pela EBAC.
+Cientista de Dados (em formação) pela EBAC | Produtor de conteúdo digital | Gestor de Tráfego Pago e de Mídias Sociais | Professor do Ensino Superior.
 
 
 ### Detalhes
@@ -11,6 +11,7 @@ Cientista de Dados em formação pela EBAC.
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VHRESENDE.github.io&theme=dark)](https://github.com/VHResende/Projeto-2_Previsao-de-Renda)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
