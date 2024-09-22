@@ -14,7 +14,7 @@ Cientista de Dados (em formação) pela EBAC | Produtor de conteúdo digital | G
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHResende&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHResende&layout=compact)](https://github.com/VHResende/github-readme-stats)
 
 ### Contatos
 
