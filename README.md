@@ -8,9 +8,9 @@ Cientista de Dados (em formação) pela EBAC | Produtor de conteúdo digital | G
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VHResende&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
+### Projetos:
 
-https://github.com/VHResende/Projeto-2_Previsao-de-Renda
+#### Projeto 02: Previsão de Renda: https://github.com/VHResende/Projeto-2_Previsao-de-Renda
 
 ### Linguagens utilizadas
 
