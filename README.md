@@ -11,9 +11,9 @@ Cientista de Dados (em formação) pela EBAC | Produtor de conteúdo digital | G
 
 ### Projetos:
 
-#### Projeto 01: Classificação de Crédito: https://github.com/VHResende/Projeto-Final_EBAC
+#### **Projeto 01: Classificação de Crédito**: https://github.com/VHResende/Projeto-Final_EBAC
 
-#### Projeto 02: Previsão de Renda: https://github.com/VHResende/Projeto-2_Previsao-de-Renda
+#### **Projeto 02: Previsão de Renda**: https://github.com/VHResende/Projeto-2_Previsao-de-Renda
 
 
 ### Linguagens utilizadas:
