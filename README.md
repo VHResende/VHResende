@@ -1,6 +1,6 @@
 ### Olá 👋
 
-#### Sobre Victor Resende
+#### Sobre Victor Resende:
 Cientista de Dados em formação pela EBAC.
 
 
@@ -19,4 +19,4 @@ Cientista de Dados em formação pela EBAC.
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.https://www.linkedin.com/in/victor-resende-701370279/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/victor-resende-701370279/)
