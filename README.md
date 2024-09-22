@@ -10,9 +10,7 @@ Cientista de Dados (em formação) pela EBAC | Produtor de conteúdo digital | G
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VHRESENDE.github.io&theme=dark)](https://github.com/VHResende/Projeto-2_Previsao-de-Renda)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrogithub1406&repo=pedrogithub2406.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VHRESENDE&repo=VHResende.github.io&theme=dark)](https://github.com/VHResende/Projeto-2_Previsao-de-Renda)
 
 ### Linguagens utilizadas
 
