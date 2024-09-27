@@ -1,7 +1,7 @@
 ### Olá 👋
 
 #### Sobre Victor Resende:
-Cientista de Dados (em formação) pela EBAC | Produtor de conteúdo digital | Gestor de Tráfego Pago e de Mídias Sociais | Professor do Ensino Superior.
+Cientista de Dados pela EBAC | Produtor de conteúdo digital | Gestor de Tráfego Pago e de Mídias Sociais | Professor do Ensino Superior.
 
 
 ### Detalhes:
