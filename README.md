@@ -15,7 +15,7 @@ Cientista de Dados pela EBAC | Produtor de conteúdo digital | Gestor de Tráfeg
 
 #### **Projeto 02: Previsão de Renda**: https://github.com/VHResende/Projeto-2_Previsao-de-Renda
 
-#### **Projeto 03: Análise do Comportamento de Navegação e Perfil de Compra**: https://github.com/VHResende/Projeto-2_Previsao-de-Renda](https://github.com/VHResende/Projeto-03_Perfil_de_compra
+#### **Projeto 03: Análise do Comportamento de Navegação e Perfil de Compra**: https://github.com/VHResende/Projeto-03_Perfil_de_compra
 
 ### Linguagens utilizadas:
 
