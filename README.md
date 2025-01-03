@@ -17,6 +17,8 @@ Cientista de Dados pela EBAC | Produtor de conteúdo digital | Gestor de Tráfeg
 
 #### **Projeto 03: Comportamento de Navegação e Perfil de Compra**: https://github.com/VHResende/Projeto-03_Perfil_de_compra
 
+#### **Projeto 04: Projeto para Concessão de Crédito desenvolvido em SQL**: https://github.com/VHResende/Projeto-04-Credito_SQL
+
 ### Linguagens utilizadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHResende&layout=compact)](https://github.com/VHResende)
