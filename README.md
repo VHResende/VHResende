@@ -21,6 +21,8 @@ Cientista de Dados pela EBAC | Produtor de conteúdo digital | Gestor de Tráfeg
 
 #### **Projeto 05: Uso de Água Potável no Brasil e no Mundo**: https://github.com/VHResende/Projeto-Uso-de-Agua-Potavel-no-Brasil-e-no-Mundo
 
+#### **Projeto 06: Credit Scorin para previsão de renda e análise de crédito**: https://github.com/VHResende/Projeto-Credit_Scoring
+
 ### Linguagens utilizadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHResende&layout=compact)](https://github.com/VHResende)
