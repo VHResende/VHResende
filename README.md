@@ -27,6 +27,9 @@ Cientista de Dados pela EBAC | Produtor de conteúdo digital | Gestor de Tráfeg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHResende&layout=compact)](https://github.com/VHResende)
 
+### Kaggle:
+
+https://www.kaggle.com/vresende
 
 ### Contatos:
 
