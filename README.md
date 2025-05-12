@@ -23,6 +23,8 @@ Cientista de Dados pela EBAC | Produtor de conteúdo digital | Gestor de Tráfeg
 
 #### **Projeto 06: Credit Scoring para previsão de renda e análise de crédito**: https://github.com/VHResende/Projeto-Credit_Scoring
 
+#### **Projeto 07: Mapa da Violência contra as mulheres: homicídios por armas de fogo**: 
+
 ### Linguagens utilizadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHResende&layout=compact)](https://github.com/VHResende)
